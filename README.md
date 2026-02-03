@@ -134,3 +134,22 @@ Typical outputs:
 Python was used to visualize SQL outputs (e.g., bar charts, scatter plots, box plots, pie charts).
 
 ---
+
+## 🧩 Obstacles
+Common challenges addressed:
+- Mixed invoice date formats (fixed during load/standardization)
+- Choosing the right visualizations to support SQL findings
+- Keeping SQL + visualization outputs consistent and reproducible
+
+---
+
+## 🤖 AI disclosure
+AI tools were used to:
+- Suggest charting code for visualizations
+- Help debug datatype and coding issues
+- Explain errors to speed up iteration
+
+---
+
+## ✅ Conclusion
+This SQL-first analysis highlights how Adidas sales patterns shifted from 2020 to 2021 and provides decision-ready insights across region, retailer performance, channel shifts, product dynamics, and gender segmentation.
